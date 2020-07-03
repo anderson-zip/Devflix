@@ -64,7 +64,7 @@ Lançado em 2020.
 Este projeto está sob a [MIT license](https://github.com/rafaellevissa/appDevFlix/blob/master/LICENSE).
 
 <p align="center">
-    Feito com :heart: por <a href="https://github.com/rafaelevissa">Rafael Levi</a>
+    Feito com :heart: por <a href="https://github.com/anderson-zip">Rafael Levi</a>
 </p>
 
 <!-- Markdown link & img dfn's -->
