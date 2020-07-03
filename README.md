@@ -28,7 +28,7 @@ Aplicativo mobile que consome a Api do Youtube e lista conteúdos para desenvolv
 
 Foto | Nome | GitHub | Likedin | E-mail
 ---- | ---- | ------ | ------- | ------
-<img src="./doc/levi.jpg" width="100px">  | Rafael Levi Batista Costa | [Rafael Levi](https://github.com/rafaellevissa) | [Linkedin](https://www.linkedin.com/in/rafaellevissa/) | rafaellevissa@gmail.com
+<img src="./doc/anderson.jpg" width="100px">  | Anderson Campos Falcão | [Anderson Campos](https://github.com/anderson-zip) | [Linkedin](https://www.linkedin.com/in/anderson-campos-3592681b1/) | andersoncamp255@gmail.com
 
 ## :computer: Tecnologias
 
