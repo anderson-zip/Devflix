@@ -26,10 +26,7 @@ export default function Header(){
     return(
         <Container>
             <Logo resizeMode="contain" source={require("../assets/short-logo.png")}></Logo>
-            <Menu onPress={() => {
-                navigation.navigate("Playlist");
-                }}
-            >
+            <Menu>
                 Playlists                
             </Menu>
             <Menu>Vídeos</Menu>

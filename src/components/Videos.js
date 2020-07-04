@@ -17,7 +17,7 @@ const VideoScrool = styled.ScrollView`
     padding-left: 10px;
 `;
 
-const CardVideo = styled.View`
+const VideoCard = styled.View`
     padding = 8px;
 `;
 
@@ -45,11 +45,7 @@ export default function Videos({ label, videos }){
                                     });
                                 }}
                             >
-                                <VideoPoster>
-                                    source={{
-                                        uri: video.thumb,
-                                    }}
-                                </VideoPoster>
+                                <VideoPoster source={{ uri: video.thumb,}}></VideoPoster>
                             </VideoButton>
                         </VideoCard>
                     );
